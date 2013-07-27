@@ -2,4 +2,5 @@
 <stdlib.h>
 
 main() {
+int i
 }
