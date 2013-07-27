@@ -2,5 +2,7 @@
 <stdlib.h>
 
 main() {
-int i
+int i;
+printf("Hello World!";
+retun 0
 }
